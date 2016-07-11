@@ -1,0 +1,2 @@
+# ArkCommunityPlatform
+The ark community platform Is open community projects, provide social community and combined marketing platform, through the kua terminal full screen cover to platform generality, and have deep mining in member system and incentive system, competitiveness and appeal to your community, the current project for the positioning of regional community portal, but this is a basic version, some advanced features only exist in the commercial version, you can choose your own!
